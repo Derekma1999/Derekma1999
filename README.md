@@ -5,7 +5,7 @@
 - <b>Personal Projects</b>
   - [Webscraping](githublink)
   - [Discord ChatBot]
-  - [Calculator]
+  - [Calculator](https://github.com/Derekma1999/Software-Engineering-Task)
   - [Storybook]
   - [Website Draft]
   - [Excel]
