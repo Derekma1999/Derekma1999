@@ -6,5 +6,7 @@
   - [Title](githublink)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Title](githublink)
+- <b>University Projects</b>
+
 
 
