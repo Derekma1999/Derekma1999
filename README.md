@@ -1,9 +1,14 @@
 <h1>Hi, I'm Derek! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>Personal Projects</b>
-  - [Title](githublink)
+  - [Webscraping](githublink)
+  - [Discord ChatBot]
+  - [Calculator]
+  - [Storybook]
+  - [Website Draft]
+  - [Excel]
 
 - <b>University Projects</b>
   - [Restaurant Booking System Web-Application](https://github.com/This-is-Ben/SES1A)
