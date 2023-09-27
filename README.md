@@ -5,10 +5,11 @@
 - <b>Personal Projects</b>
   - [Webscraping](githublink)
   - [Discord ChatBot]
-  - [Calculator](https://github.com/Derekma1999/Software-Engineering-Task)
-  - [Storybook]
-  - [Website Draft]
+  - [Frontend Rules Engine Property](https://github.com/Derekma1999/Software-Engineering-Task)
+  - [Frontend Storybook]
+  - [FullStack Blog Website]
   - [Excel]
+  - [Selenium Twitct.tv Script]
 
 - <b>University Projects</b>
   - [Restaurant Booking System Web-Application](https://github.com/This-is-Ben/SES1A)
