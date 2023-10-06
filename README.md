@@ -7,7 +7,7 @@
   - [Discord ChatBot]
   - [Frontend Rules Engine Property](https://github.com/Derekma1999/Software-Engineering-Task)
   - [Frontend Storybook]
-  - [FullStack Blog Website]
+  - [FullStack Blog Website](https://github.com/Derekma1999/Personal-Project)
   - [Excel]
   - [Selenium Twitct.tv Script]
 
