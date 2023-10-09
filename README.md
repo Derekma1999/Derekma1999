@@ -8,8 +8,7 @@
   - [Frontend Rules Engine Property](https://github.com/Derekma1999/Software-Engineering-Task)
   - [Frontend Storybook]
   - [FullStack Blog Website](https://github.com/Derekma1999/Personal-Project)
-  - [Excel]
-  - [Selenium Twitct.tv Script]
+  - [Selenium Twitch.tv Script](https://github.com/Derekma1999/Twitch-AutomatedSearch)
 
 - <b>University Projects</b>
   - [Restaurant Booking System Web-Application](https://github.com/This-is-Ben/SES1A)
