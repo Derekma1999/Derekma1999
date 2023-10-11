@@ -6,7 +6,7 @@
   - [Webscraping](https://github.com/Derekma1999/Python-Webscraping-Project)
   - [Discord ChatBot]
   - [Frontend Rules Engine Property](https://github.com/Derekma1999/Software-Engineering-Task)
-  - [Frontend Storybook]
+  - [Frontend Storybook](https://github.com/Derekma1999/Frontend-StoryBook)
   - [FullStack Blog Website](https://github.com/Derekma1999/Personal-Project)
   - [Selenium Twitch.tv Script](https://github.com/Derekma1999/Twitch-AutomatedSearch)
 
