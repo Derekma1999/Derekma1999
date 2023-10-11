@@ -4,7 +4,7 @@
 
 - <b>Personal Projects</b>
   - [Webscraping](https://github.com/Derekma1999/Python-Webscraping-Project)
-  - [Discord ChatBot]
+  - [Discord ChatBot](https://github.com/Derekma1999/Discord-ChatBot)
   - [Frontend Rules Engine Property](https://github.com/Derekma1999/Software-Engineering-Task)
   - [Frontend Storybook](https://github.com/Derekma1999/Frontend-StoryBook)
   - [FullStack Blog Website](https://github.com/Derekma1999/Personal-Project)
